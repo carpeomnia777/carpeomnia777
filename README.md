@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/@dadevcarpeomnia" target="blank"><img src="https://img.shields.io/twitter/follow/@dadevcarpeomnia?logo=twitter&style=for-the-badge" alt="@dadevcarpeomnia" /></a> </p>
 
-- 🔭 I’m currently working on [Myco-Next, tensorflow based mushroom foraging companion app](https://www.carpeomnia.dev/generic)
+- 🔭 I’m currently working on [Pokemon Unite competative companion app](https://www.carpeomnia.dev/generic)
 
 - 🌱 I’m currently learning **Everything, Never stop learning!**
 
