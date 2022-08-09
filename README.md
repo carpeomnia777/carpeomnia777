@@ -21,7 +21,7 @@
 
 - 📄 Know about my experiences [https://github.com/carpeomnia777/evolvingResume/blob/main/Chriswilson-_Software_Engineer.pdf](https://github.com/carpeomnia777/evolvingResume/blob/main/Chriswilson-_Software_Engineer.pdf)
 
-- ⚡ Fun fact **I have 6 pet rats.**
+- ⚡ Fun fact **I have 4 pet rats.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
